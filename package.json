@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^1.6.8",
+    "axios": "^1.7.4",
     "react-animated-weather": "^4.0.1",
     "react-live-clock": "^6.1.20"
   }
